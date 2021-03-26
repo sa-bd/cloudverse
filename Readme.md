@@ -3,7 +3,7 @@
 
 <br>
 
-[![first-timers-friendly](https://img.shields.io/badge/first--timers-friendly-blue?style=for-the-badge&logo=appveyor)](#) 
+[![first-timers-friendly](https://img.shields.io/badge/first--timers-friendly-blueviolet?style=for-the-badge&logo=appveyor)](#)
 [![Azure-friendly](https://img.shields.io/badge/Microsoft-Azure-informational?style=for-the-badge&logo=appveyor)](#)
 
 <br>
@@ -42,8 +42,8 @@ Also, you will explore the prospects of a career in cloud computing sector.
 - Organizer Community : [Microsoft Learn Student Ambassadors BUP](https://www.mlsa-bup.technology/) <br>
 - Collaborating Organization : [IEEE BUP Student Branch](https://www.bup.edu.bd/clubs/bup-ieee-student-branch) <br>
 - Speakers : 
-	- [Md. Asifuzzaman](https://github.com/bijoy26) (Ambassador) <br>
-	- [Kaiser Ahmed](https://github.com/bijoy26) (Ambassador) <br>
+	- [Md. Asifuzzaman](https://github.com/#) (Ambassador) <br>
+	- [Kaiser Ahmed](https://github.com/mekaiser) (Ambassador) <br>
 	- [Anjum Rashid](https://github.com/bijoy26) (Ambassador) <br>
 	- [Shahriar Bulbul](#) (Guest) <br>
 
