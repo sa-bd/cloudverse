@@ -30,9 +30,12 @@ Also, you will explore the prospects of a career in cloud computing sector.
 - Web servers hosting in Azure
 - Career and opportunities in Cloud Computing
 
+## :books: Event Handbook 
+### Grab the [exclusive handbook](Resources/CloudVerse%20-%20Event%20Handbook.pdf) and get started with Azure today!
+The handbook covers- 
+* How to activate **Azure for Students** Account
+* How to create and access a **Virtual Machine** on Azure 
 
-
-<br>
 
 ## :movie_camera: Event Recording
 
