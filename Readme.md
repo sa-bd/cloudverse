@@ -31,10 +31,10 @@ Also, you will explore the prospects of a career in cloud computing sector.
 - Career and opportunities in Cloud Computing
 
 ## :books: Event Handbook 
-### Grab the [exclusive handbook](Resources/CloudVerse%20-%20Event%20Handbook.pdf) and get started with Azure today!
+### Grab the **Exclusive Handbook** and get started with Azure today!
 
 
-<a download="custom-filename.jpg" href="Resources/CloudVerse%20-%20Event%20Handbook.pdf" title="Download Handbook">
+<a download="Handbook-Link" href="https://raw.githubusercontent.com/sa-bd/cloudverse/main/Resources/CloudVerse%20-%20Event%20Handbook.pdf" title="Download Handbook">
     <img alt="Download" src="Assets/btn.png" width="172" height="50">
 </a>
 
