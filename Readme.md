@@ -38,6 +38,7 @@ Also, you will explore the prospects of a career in cloud computing sector.
     <img alt="Download" src="Assets/btn.png" width="172" height="50">
 </a>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsa-bd%2Fcloudverse%2Fmain%2FResources%2FCloudVerse%2520-%2520Event%2520Handbook.pdf&count_bg=%236D47CF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=downloads&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### The handbook covers- 
 * How to activate **Azure for Students** Account
