@@ -44,6 +44,9 @@ Also, you will explore the prospects of a career in cloud computing sector.
 * How to activate **Azure for Students** Account
 * How to create and access a **Virtual Machine** on Azure 
 
+## 🚀 Learning Resource
+
+Check out [Virtualization - Sharing cloud resources](https://docs.microsoft.com/en-us/learn/paths/cmu-cloud-computing-how-cloud-works) learning path on **Microsoft Learn** for in-depth virtualization insights!
 
 ## :movie_camera: Event Recording
 
